@@ -24,7 +24,7 @@
     },
     "repository": "https://github.com/RookieBr-2/vermillion-training-facility",
 	"tags": ["maps", "dungeon", "equipment", "custom enemies"],
-	"authors": ["RookieBr", "kypek"],
+	"authors": ["RookieBr", "2767mr"],
     "prestart": "prestart.js",
     "dependencies": {}
 }
