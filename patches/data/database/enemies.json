@@ -1,0 +1,263 @@
+{
+    "specials.virus-training": {
+        "name": {
+            "en_US": "Training Virus"
+        },
+        "track": true,
+        "order": 50007,
+        "kills": 1,
+        "area": "vtf",
+        "anim": "run",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "A Virus Used in the \\c[1]Vermillion Training Facility. \\c[0]Used to train every person who wants to."
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "Little Training Virus"
+        },
+        "category": "ABSTRACT",
+        "level": 38,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 2000,
+            "attack": 175,
+            "defense": 170,
+            "focus": 180,
+            "elemFactor": []
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": false
+    },
+    "specials.element-turret-vtf": {
+        "name": {
+            "en_US": "VTF Turret"
+        },
+        "track": true,
+        "order": 50008,
+        "disableAnalyze": true,
+        "kills": 1,
+        "area": "vtf",
+        "anim": "shoot",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "Turrets designed by \\c[3]Unknown \\c[0]intended to shoot any desired proxy/bullet. The red coloring in the turret is the representation of VTF (Found in the \\c[1]Vermillion Training Facility\\c[0])"
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "Master Shooter Turret"
+        },
+        "category": "MECHA",
+        "level": 60,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 20000,
+            "attack": 500,
+            "defense": 500,
+            "focus": 240,
+            "elemFactor": []
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": false
+    },
+    "specials.heathog": {
+        "name": {
+            "en_US": "Vermillion Heathag"
+        },
+        "track": true,
+        "order": 50009,
+        "kills": 1,
+        "area": "vtf",
+        "anim": "move",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "A strange Hedgehag found in the \\c[1]Vermillion Training Facility\\c[0]. He can use a powerful dash that leaves a fire trail behind and he also uses a jumping attack that explodes and leaves heat."
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "Burning Hedgehog"
+        },
+        "category": "ABSTRACT",
+        "level": 60,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 28000,
+            "attack": 450,
+            "defense": 397,
+            "focus": 360,
+            "elemFactor": [0.20, 1.2, 1 ,1]
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": false
+    },
+    "specials.dj-shockwave": {
+        "name": {
+            "en_US": "Dee ScottPeng"
+        },
+        "track": true,
+        "order": 500010,
+        "kills": 1,
+        "area": "vtf",
+        "anim": "beatbox",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "A Heavily modified Pengpen with the role of a shockwave rapper,found in the \\c[1]Vermillion Training Facility \\c[0]."
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "DJ Shockwave"
+        },
+        "category": "ANIMALS",
+        "level": 60,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 27000,
+            "attack": 570,
+            "defense": 450,
+            "focus": 570,
+            "elemFactor": [1, 1, 0.20 ,0.20]
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": false
+    },
+    "specials.vermillion-crab": {
+        "name": {
+            "en_US": "Prototype 0X998"
+        },
+        "track": true,
+        "order": 500011,
+        "kills": 1,
+        "area": "vtf",
+        "anim": "growlStart",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "No one knows about this enemy, it was just discovered in this strange place."
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "Red Crab"
+        },
+        "category": "ABSTRACT",
+        "level": 80,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 170000,
+            "attack": 450,
+            "defense": 570,
+            "focus": 300,
+            "elemFactor": [
+                0.3,
+                0.3,
+                0.3,
+                0.3
+            ]
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": true
+    },
+    "specials.data-samurai": {
+        "name": {
+            "en_US": "DataWave ColdMaster"
+        },
+        "track": true,
+        "order": 500012,
+        "kills": 1,
+        "area": "vtf",
+        "anim": "dash",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "Behind the cold waves of this place's data, he was stored inside CrossWorlds before it was even created."
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "Glitchy Mess"
+        },
+        "category": "ABSTRACT",
+        "level": 80,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 120000,
+            "attack": 450,
+            "defense": 300,
+            "focus": 500,
+            "elemFactor": [
+            1.25,
+            0.5,
+            1.25,
+            0.5
+        ]
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": true
+    },
+    "specials.eternal-shadow": {
+        "name": {
+            "en_US": "Eternal Shadow"
+        },
+        "track": true,
+        "order": 500013,
+        "kills": 0,
+        "area": "vtf",
+        "anim": "idle",
+        "descriptions": [
+            {
+                "text": {
+                    "en_US": "\\c[4]A \\c[1]Shadow \\c[4]that never leaves."
+                },
+                "condition": ""
+            }
+        ],
+        "species": {
+            "en_US": "Shadow"
+        },
+        "category": "ABSTRACT",
+        "level": 80,
+        "boostedLevel": 0,
+        "params": {
+            "hp": 250000,
+            "attack": 250e2,
+            "defense": 275,
+            "focus": 375,
+            "elemFactor": [
+            1,
+            1,
+            1,
+            1
+        ]
+        },
+        "credit": 0,
+        "exp": 0,
+        "itemDrops": [],
+        "boss": true
+    }
+}

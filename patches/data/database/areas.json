@@ -1,0 +1,74 @@
+{
+    "vtf": {
+        "name": {
+            "DOCTYPE": "AREAS_MAP",
+            "en_US": "Vermillion Training Facility",
+            "langUid": 8311
+        },
+        "shortName": {
+            "en_US": "VTF",
+            "langUid": 8311
+        },
+        "description": {
+            "en_US": "An abandoned facility found in \\c[1]Vermillion Wasteland\\c[0].",
+            "langUid": 8312
+        },
+        "areaType": "DUNGEON",
+        "order": 50001,
+        "track": true,
+        "chests": 0,
+        "condition": "true",
+        "position": {
+            "x": 448,
+            "y": 213
+        },
+        "landmarks": {
+            "challenge-hub": {
+                "name": {
+                    "en_US": "Challenge Hub",
+                    "langUid": 13440
+                },
+                "description": {
+                    "en_US": "The Hub of the last challenges held in the VTF.",
+                    "langUid": 13441
+                }
+            }
+        }
+    },
+    "bio-forest": {
+        "name": {
+            "DOCTYPE": "AREAS_MAP",
+            "en_US": "Bio Forest",
+            "langUid": 8311
+        },
+        "shortName": {
+            "en_US": "BF",
+            "langUid": 8311
+        },
+        "description": {
+            "en_US": "A unused area that leads to a place...",
+            "langUid": 8312
+        },
+        "areaType": "PATH",
+        "order": 50002,
+        "track": true,
+        "chests": 0,
+        "condition": "true",
+        "position": {
+            "x": 433,
+            "y": 185
+        },
+        "landmarks": {
+            "bio-forest": {
+                "name": {
+                    "en_US": "Hedgehag Containers",
+                    "langUid": 13440
+                },
+                "description": {
+                    "en_US": "The abandoned container place near the \\c[1]Vermillion Training Facility\\c[0].",
+                    "langUid": 13441
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "vermillion-training-facility",
+    "ccmodHumanName": "Vermillion Training Facility",
+    "version": "1.0.0",
+    "prestart": "prestart.js"
+  }

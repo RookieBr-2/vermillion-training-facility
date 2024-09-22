@@ -1,0 +1,30 @@
+{
+    "id": "vermillion-training-facility",
+    "version": "1.2.1",
+    "title": {
+        "en_US": "Vermillion Training Facility",
+        "de_DE": "Vermillion Training Facility",
+        "fr_FR": "Vermillion Training Facility",
+        "zh_CN": "Vermillion Training Facility",
+        "zh_TW": "Vermillion Training Facility",
+        "ja_JP": "Vermillion Training Facility",
+        "ko_KR": "Vermillion Training Facility"
+    },
+    "description": {
+        "en_US": "A training facility in vermillion. Access it throught the arena training",
+        "de_DE": "A training facility in vermillion. Access it throught the arena training",
+        "fr_FR": "A training facility in vermillion. Access it throught the arena training",
+        "zh_CN": "A training facility in vermillion. Access it throught the arena training",
+        "zh_TW": "A training facility in vermillion. Access it throught the arena training",
+        "ja_JP": "A training facility in vermillion. Access it throught the arena training",
+        "ko_KR": "A training facility in vermillion. Access it throught the arena training"
+    },
+    "icons": {
+        "24":"icon.png"
+    },
+    "repository": "https://github.com/RookieBr-2/vermillion-training-facility",
+	"tags": ["maps", "dungeon", "equipment", "custom enemies"],
+	"authors": ["RookieBr"],
+    "prestart": "prestart.js",
+    "dependencies": {}
+}

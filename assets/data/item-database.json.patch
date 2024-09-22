@@ -1,0 +1,121 @@
+[
+  {
+    "type": "ENTER",
+    "index": "items"
+  },
+  {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": {
+    "order": 1987,
+    "customItem": "equip-vtfGlove",
+    "name": {
+        "en_US": "VTF Glove",
+        "langUid": 1
+    },
+    "description": {
+        "en_US": "A glove used in VTF and it needs to be equipped.",
+        "langUid": 2
+    },
+    "type": "EQUIP",
+    "rarity": 4,
+    "cost": 0,
+    "level": 77,
+    "icon": "item-sword",
+    "equipType": "ARM",
+    "params": {
+        "hp": 300,
+        "attack": 277,
+        "focus": 10
+    },
+    "properties": {
+        "XP_ZERO": 2,
+        "ASSAULT": 1.5
+    },
+    "effect": {
+        "sheet": "",
+        "name": null
+    },
+    "noTrack": false,
+    "isScalable": false,
+    "noCount": true
+  }
+  },
+  {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": {
+    "order": 1987,
+    "customItem": "equip-vtfHeadSet",
+    "name": {
+        "en_US": "VTF Headgear",
+        "langUid": 1
+    },
+    "description": {
+        "en_US": "A headgear used in VTF and it needs to be equipped.",
+        "langUid": 2
+    },
+    "type": "EQUIP",
+    "rarity": 4,
+    "cost": 0,
+    "level": 77,
+    "icon": "item-helm",
+    "equipType": "HEAD",
+    "params": {
+        "hp": 150,
+        "attack": 200,
+        "focus": 150 
+    },
+    "properties": {
+        "XP_ZERO": 2,
+        "BERSERK": 1.2
+    },
+    "effect": {
+        "sheet": "specials.wave",
+        "name": "healGuardEffect"
+    },
+    "noTrack": false,
+    "isScalable": false,
+    "noCount": true
+  }
+  },
+    {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": {
+    "order": 1987,
+    "customItem": "equip-vtfArmor",
+    "name": {
+        "en_US": "VTF Armor",
+        "langUid": 1
+    },
+    "description": {
+        "en_US": "A armor used in VTF and it needs to be equipped.",
+        "langUid": 2
+    },
+    "type": "EQUIP",
+    "rarity": 4,
+    "cost": 0,
+    "level": 77,
+    "icon": "item-belt",
+    "equipType": "TORSO",
+    "params": {
+        "hp": 99,
+        "attack": 99,
+        "defense": 266,
+        "focus": 99
+    },
+    "properties": {
+        "XP_ZERO": 2,
+        "AIM_STABILITY": 1.5
+    },
+    "effect": {
+        "sheet": "",
+        "name": null
+    },
+    "noTrack": false,
+    "isScalable": false,
+    "noCount": true
+  }
+  },
+  {
+    "type": "EXIT"
+  }
+]

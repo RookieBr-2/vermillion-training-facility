@@ -1,0 +1,93 @@
+{
+    "cancelSkip": true,
+    "blockSkip": true,
+    "entries": [
+        {
+            "name": "three-dots",
+            "gfx": "media/parallax/mysterious-mirror/mirror-cutscene.png",
+            "src": {
+                "x": 0,
+                "y": 0,
+                "w": 114,
+                "h": 177
+            },
+            "align": {
+                "x": "CENTER",
+                "y": "CENTER"
+            }
+        },
+        {
+            "name": "questions",
+            "gfx": "media/parallax/mysterious-mirror/mirror-cutscene.png",
+            "src": {
+                "x": 115,
+                "y": 0,
+                "w": 114,
+                "h": 177
+            },
+            "align": {
+                "x": "CENTER",
+                "y": "CENTER"
+            }
+        },
+        {
+            "name": "exclamations",
+            "gfx": "media/parallax/mysterious-mirror/mirror-cutscene.png",
+            "src": {
+                "x": 230,
+                "y": 0,
+                "w": 114,
+                "h": 177
+            },
+            "align": {
+                "x": "CENTER",
+                "y": "CENTER"
+            }
+        },
+        {
+            "name": "c1",
+            "sound": "media/sound/mirror-sfx1.ogg",
+            "volume": 1.5,
+            "variance": 0
+        },
+        {
+            "name": "c2",
+            "sound": "media/sound/mirror-sfx2.ogg",
+            "volume": 1.5,
+            "variance": 0
+        }
+    ],
+    "sequence": [
+        {
+            "sound": "c1"
+        },
+        {
+            "entry": "three-dots",
+            "duration": 1
+        },
+        {
+            "wait": 1.3
+        },
+        {
+            "sound": "c1"
+        },
+        {
+            "entry": "questions",
+            "duration": 1.2
+        },
+        {
+            "wait": 1.3
+        },
+        {
+            "sound": "c2"
+        },
+        {
+            "entry": "exclamations",
+            "duration": 1
+        },
+        {
+            "wait": 1.3
+        }
+        
+    ]
+}

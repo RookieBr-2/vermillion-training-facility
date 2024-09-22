@@ -1,0 +1,36 @@
+[
+  {
+    "type": "ENTER",
+    "index": "entities"
+  },
+  {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": {
+            "type": "TeleportField",
+            "x": 735,
+            "y": 382,
+            "level": 0,
+            "settings": {
+                "name": "modMap",
+                "dir": "SOUTH",
+                "map": "lily-arena.training-lily",
+                "marker": "entrance",
+                "mapId": 258,
+                "teleportLabel": {
+                    "en_US": "To Vermillion Training Facility",
+                    "de_DE": "",
+                    "zh_CN": "",
+                    "zh_TW": "",
+                    "ja_JP": "",
+                    "ko_KR": "",
+                    "langUid": ""
+                },
+                "longTelCond": "false",
+                "gfxType": "AR"
+                }
+              }
+  },
+  {
+    "type": "EXIT"
+  }
+]
