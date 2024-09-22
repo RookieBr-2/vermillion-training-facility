@@ -1,2 +1,2 @@
 # vermillion-training-facility
- A new map/dungeon for CrossCode
+ A new Map/Dungeon for CrossCode, Still in WIP
