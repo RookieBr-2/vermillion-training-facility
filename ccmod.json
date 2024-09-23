@@ -1,6 +1,6 @@
 {
     "id": "vermillion-training-facility",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "title": {
         "en_US": "Vermillion Training Facility",
         "de_DE": "Vermillion Training Facility",
@@ -11,19 +11,19 @@
         "ko_KR": "Vermillion Training Facility"
     },
     "description": {
-        "en_US": "A training facility in vermillion. Access it throught the arena training",
-        "de_DE": "A training facility in vermillion. Access it throught the arena training",
-        "fr_FR": "A training facility in vermillion. Access it throught the arena training",
-        "zh_CN": "A training facility in vermillion. Access it throught the arena training",
-        "zh_TW": "A training facility in vermillion. Access it throught the arena training",
-        "ja_JP": "A training facility in vermillion. Access it throught the arena training",
-        "ko_KR": "A training facility in vermillion. Access it throught the arena training"
+        "en_US": "A training facility in \\c[1]Vermillion\\c[0].",
+        "de_DE": "A training facility in \\c[1]Vermillion\\c[0].",
+        "fr_FR": "A training facility in \\c[1]Vermillion\\c[0].",
+        "zh_CN": "A training facility in \\c[1]Vermillion\\c[0].",
+        "zh_TW": "A training facility in \\c[1]Vermillion\\c[0].",
+        "ja_JP": "A training facility in \\c[1]Vermillion\\c[0].",
+        "ko_KR": "A training facility in \\c[1]Vermillion\\c[0]."
     },
     "icons": {
         "24":"icon.png"
     },
     "repository": "https://github.com/RookieBr-2/vermillion-training-facility",
-	"tags": ["maps", "dungeon", "equipment", "custom enemies"],
+	"tags": ["maps", "dungeon", "boss", "puzzle"],
 	"authors": ["RookieBr", "2767mr"],
     "prestart": "prestart.js",
     "dependencies": {}
